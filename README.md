@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BishalRoy2000
+- 👋 Hi, I’m Bishal Roy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking for a company to gain my experience, improve my coding skills, learn lot of new technologies etc
